@@ -3,7 +3,7 @@ Type: Package
 Title: Polish cities
 Version: 0.1
 Authors@R: c(
-    person("Monika", "Gendera", role = c("aut", "cre"))
+    person("Monika", "Gendera", role = c("aut", "cre")),
     person("Jagoda", "Zarzeka", role = "aut"),
     person("Marta", "Witkowska", role = "aut"))
 Description: Polish cities with volvoships
