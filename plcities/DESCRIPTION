@@ -1,12 +1,9 @@
+Encoding: UTF-8
 Package: plcities
 Type: Package
 Title: Polish cities
 Version: 0.1
-Authors@R: c(
-    person("Monika", "Gendera", role = c("aut", "cre")),
-    person("Jagoda", "Zarzeka", role = "aut"),
-    person("Marta", "Witkowska", role = "aut"))
+Author: Monika Gendera, Jagoda Zarzeka, Marta Witkowska
+Maintainer: Monika Gendera <ukryty@mail.pl>
 Description: Polish cities with volvoships
 License: CC0
-Encoding: UTF-8
-LazyData: true
