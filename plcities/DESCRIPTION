@@ -4,7 +4,7 @@ Title: Polish cities
 Version: 0.1
 Authors@R: c(
     person("Monika", "Gendera", role = "aut"),
-    person("Jagoda", "Zarzeka", role = "cre"),
+    person("Jagoda", "Zarzeka", role = "aut"),
     person("Marta", "Witkowska", role = "cre"))
 Description: Polish cities with volvoships
 License: CC0
